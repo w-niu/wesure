@@ -15,8 +15,8 @@
 * [重大疾病保险知识问答](zhong-da-ji-bing-bao-xian-zhi-shi-wen-da.md)
 * [多买是否就会多赔？（医疗险）](duo-mai-shi-fou-jiu-hui-duo-pei-yi-liao-xian.md)
 * [多买是否就会多赔？（意外/医疗/寿险）](duo-mai-shi-fou-jiu-hui-duo-pei-yi-wai-yi-liao-shou-xian.md)
+* [如何理解尊享e生的免赔额条款](ru-he-li-jie-zun-xiangesheng-de-mian-peietiao-kuan.md)
 * [如何理解尊享e生的连续投保条款](ru-he-li-jie-zun-xiangesheng-de-lian-xu-tou-bao-tiao-kuan.md)
 * [用数据说明&lt;返还型&gt;和&lt;消费型&gt;如何选择](yong-shu-ju-shuo-ming-fan-huan-xing-he-xiao-fei-xing-ru-he-xuan-ze.md)
 * [关于&lt;退保&gt;那些事](guan-yu-tui-bao-na-xie-shi.md)
-* [如何理解尊享e生的免赔额条款](ru-he-li-jie-zun-xiangesheng-de-mian-peietiao-kuan.md)
 
