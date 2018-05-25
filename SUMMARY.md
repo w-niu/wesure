@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [Initial page](README.md)
 * [家庭成员的保险配置原则](jia-ting-cheng-yuan-de-bao-xian-pei-zhi-yuan-ze.md)
@@ -11,7 +11,7 @@
 * [是否需要选择返本型重疾险](shi-fou-xu-yao-xuan-ze-fan-ben-xing-zhong-ji-xian.md)
 * [是否需要选择终身重疾险](shi-fou-xu-yao-xuan-ze-zhong-shen-zhong-ji-xian.md)
 * [医疗保险、重疾保险，应该买哪个](yi-liao-bao-xian-zhong-ji-bao-xian-ying-gai-mai-na-ge.md)
-* [重疾、癌症、大病，有何不同](zhong-ji-3001-ai-zheng-3001-da-bing-ff0c-you-he-bu-tong.md.md)
+* [重疾、癌症、大病，有何不同](zhong-ji-3001-ai-zheng-3001-da-bing-ff0c-you-he-bu-tong.md)
 * [重大疾病保险知识问答](zhong-da-ji-bing-bao-xian-zhi-shi-wen-da.md)
 * [多买是否就会多赔？（医疗险）](duo-mai-shi-fou-jiu-hui-duo-pei-yi-liao-xian.md)
 * [多买是否就会多赔？（意外/医疗/寿险）](duo-mai-shi-fou-jiu-hui-duo-pei-yi-wai-yi-liao-shou-xian.md)
