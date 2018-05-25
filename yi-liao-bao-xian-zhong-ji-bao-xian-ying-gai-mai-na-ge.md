@@ -1,7 +1,3 @@
-# 医疗保险、重疾保险，应该买哪个
-
-医疗保险
-
 # **什么是医疗保险**
 
 医疗保险是指是指以保险合同约定的医疗行为的发生为给付保险金条件，为被保险人接受诊疗期间的医疗费用支出提供保障的保险，它是健康保险的主要内容之一。医疗费用是病人为了治病而发生的各种费用，它不仅包括医生的医疗费和手术费用，还包括住院、护理、医院设备等的费用。
@@ -49,8 +45,6 @@
 \* 适合一般固定收入人群、父母的医疗保障
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmaw07YjqKRHzzAx9KQRMqFw07bI9ZVVZwta467gdlT2hAqkckKb6ncIbw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
-
-
 
 # **什么是重疾保险**
 
