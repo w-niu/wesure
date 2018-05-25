@@ -1,14 +1,6 @@
 # Initial page
 
-## This is head \
+README.md
 
-**Hello /\*sdf\*/**
 
-> sdfjkl;
->
-> sdf;
-
-2nd edited by hasl-pc
-
-add some content
 
