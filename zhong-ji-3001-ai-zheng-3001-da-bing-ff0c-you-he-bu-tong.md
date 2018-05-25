@@ -1,9 +1,8 @@
-很多人分不清楚什么是重疾险，什么是防癌险，不都是大病保险吗？  
-
+很多人分不清楚什么是重疾险，什么是防癌险，不都是大病保险吗？
 
 实则不然，保险产品有太多分类，每种分类里的保险产品的保障责任都有不同的特性。下面用最简单明了的语言，给大家澄清下这三种保险的含义。
 
-重疾险
+# 重疾险
 
 顾名思义，重疾险即重大疾病保险，属于商业保险里的健康险。
 
@@ -21,18 +20,15 @@
 
 这里列举一些各种形态的产品供查看：
 
-  
-
-
-\*\* 纯粹重疾险，可选\(被保人\)轻症豁免  
+\*\* 纯粹重疾险，可选\(被保人\)轻症豁免
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnpvZcqurD5icd3MKRsBh6RsaAdYABf2iaENTnkqqnvXgKOxJmeZch3r0I1hovpkpOjRPCxGBtzWysYg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-\*\* 次年保额翻倍，可选\(被保人\)轻症豁免  
+\*\* 次年保额翻倍，可选\(被保人\)轻症豁免
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnpvZcqurD5icd3MKRsBh6RsaQxcAE6QZXTCzZRA5xth0Mn8oSDv0oQyMeRMqwgtfPOTf1BKqsf7DMQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-\*\* 重疾轻症都可以赔付3次，可选投保人豁免  
+\*\* 重疾轻症都可以赔付3次，可选投保人豁免
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnpvZcqurD5icd3MKRsBh6RsatTT4Mwlicn6vleplLAffMWjibN1iclQkliaBcvIF6ibyFCsCiaamaG2w00xA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
@@ -40,7 +36,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnpvZcqurD5icd3MKRsBh6RsabuNcDQye0kXQolIPyFZxghdhd5jv3THpU2fHKg3gwSkL4RyqKGQ6Pg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-防癌险
+# 防癌险
 
 防癌险同样属于商业保险里的健康险，亦是重大疾病保险的一种，但它主要是指**专门针对恶性肿瘤**提供保障的保险产品。
 
@@ -54,28 +50,29 @@
 
 1、保险预算有限的人群；
 
-    2、经常接触化工原材料等致癌物品的人员；
+```
+2、经常接触化工原材料等致癌物品的人员；
 
-    3、有癌症家族史的人员；
+3、有癌症家族史的人员；
 
-    4、50岁以上的中老年人；
+4、50岁以上的中老年人；
 
-    5、已购买重大疾病保险，但希望提高癌症保障的人群。
+5、已购买重大疾病保险，但希望提高癌症保障的人群。
+```
 
 同样，这里也列举一些防癌险的产品形态：
 
-\*\* 长期防癌险：恶性肿瘤可赔付3次  
+\*\* 长期防癌险：恶性肿瘤可赔付3次
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnpvZcqurD5icd3MKRsBh6Rsas1s7AmGRGIFCQHwK3rHqdNOTibEf6zj6944mw9EGicx5asVCwh5ZmQzw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-\*\* 一年期防癌险：恶性肿瘤+轻症恶性肿瘤 
+\*\* 一年期防癌险：恶性肿瘤+轻症恶性肿瘤
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnpvZcqurD5icd3MKRsBh6RsaEhQanjXiaVSrMcHN9LbA63w7TrWwEJJsXwk0ksbzC5O1s2LmtmOdyibQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-大病保险
+# 大病保险
 
-重疾险和防癌险都是纯粹的商业保险，而大病保险的**实质是基本医疗保障制度**的丰富和发展，它的存在是为了实现人人享有基本医疗卫生服务的目标。照此说法，大病保险仍然属于基本医疗保障的范畴，而不是一个纯粹的商业医疗保险。  
-
+重疾险和防癌险都是纯粹的商业保险，而大病保险的**实质是基本医疗保障制度**的丰富和发展，它的存在是为了实现人人享有基本医疗卫生服务的目标。照此说法，大病保险仍然属于基本医疗保障的范畴，而不是一个纯粹的商业医疗保险。
 
 大病保险的特征有以下几点：
 
