@@ -18,4 +18,5 @@
 * [如何理解尊享e生的连续投保条款](ru-he-li-jie-zun-xiang-e-sheng-de-lian-xu-tou-bao-tiao-kuan.md)
 * [用数据说明&lt;返还型&gt;和&lt;消费型&gt;如何选择](yong-shu-ju-shuo-660e3c-fan-huan-578b3e-548c3c-xiao-fei-578b3e-ru-he-xuan-ze.md)
 * [关于&lt;退保&gt;那些事](guan-4e8e3c-tui-4fdd3e-na-xie-shi.md)
+* [如何理解尊享e生的免赔额条款](ru-he-li-jie-zun-xiang-e-sheng-de-mian-pei-e-tiao-kuan.md)
 
