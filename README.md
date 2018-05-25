@@ -1,6 +1,6 @@
 # Initial page
 
-## This is head \#
+## This is head \
 
 **Hello /\*sdf\*/**
 
@@ -8,5 +8,5 @@
 >
 > sdf;
 
-
+2nd edited by hasl-pc
 
