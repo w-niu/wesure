@@ -1,3 +1,5 @@
+# 医疗保险、重疾保险，应该买哪个
+
 医疗保险
 
 **什么是**
@@ -32,25 +34,19 @@
 
 买够保额后，不再建议重复购买医疗保险
 
-
-
 **相关推荐**
 
 尊享e生旗舰版，产品特点：
 
 \* 一般医疗300万，癌症600万
 
-\* 住院**垫付**、出院报销  
+\* 住院**垫付**、出院报销
 
+\* 可全家**共享**1万免赔额
 
-\* 可全家**共享**1万免赔额  
+\* 含6000元**法律**纠纷补偿
 
-
-\* 含6000元**法律**纠纷补偿  
-
-
-\* 适合一般固定收入人群、父母的医疗保障  
-
+\* 适合一般固定收入人群、父母的医疗保障
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmaw07YjqKRHzzAx9KQRMqFw07bI9ZVVZwta467gdlT2hAqkckKb6ncIbw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
@@ -98,36 +94,38 @@
 
 不适用补偿原则，因此可以叠加赔付，可购买多份重疾保险
 
-
-
 **相关推荐**
 
 **1、百年人寿康惠保**
 
-    \* 保至70岁或终身  
+```text
+\* 保至70岁或终身  
 
 
-    \***纯粹消费**型重疾
+\***纯粹消费**型重疾
 
-    \***100种**重疾，性价比很高
+\***100种**重疾，性价比很高
 
-    \* 可选30种轻症及豁免功能（轻症费率性价比不高，可不选）
+\* 可选30种轻症及豁免功能（轻症费率性价比不高，可不选）
 
-    \* 可选30年交费，把压力降至最小
+\* 可选30年交费，把压力降至最小
+```
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmawxRMyN0icHUyZg4icyDfco0SpRKFpBwoyTaEiaKAolheFZCtAcdvZksibiag/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 **2、和谐分享之享**
 
-    \* 定期重疾，最长保至80周岁
+```text
+\* 定期重疾，最长保至80周岁
 
-    \***50**种重疾、**10**种轻症
+\***50**种重疾、**10**种轻症
 
-    \* 次年**保额翻倍**，最高120万
+\* 次年**保额翻倍**，最高120万
 
-    \*全残保额与重疾保额相同，身故赔已交保费
+\*全残保额与重疾保额相同，身故赔已交保费
 
-    \* 可选被保人**轻症豁免**后续保费
+\* 可选被保人**轻症豁免**后续保费
+```
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmawGR9wia6DMOWwqhgSRGDDIjh0XS25BqVBTCqia3tMJd6RNA3IqwVthbag/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
@@ -135,36 +133,37 @@
 
 \* 终身重疾
 
-    \***80种**重疾、28种轻症
+```text
+\***80种**重疾、28种轻症
 
-    \* 重疾或轻症**均可赔付3次**
+\* 重疾或轻症**均可赔付3次**
 
-    \* 重疾**可豁免**后续重疾保费，轻症**可豁免**后续轻症保费
+\* 重疾**可豁免**后续重疾保费，轻症**可豁免**后续轻症保费
 
-    \* 身故仍可获赔保额（前提是没有发生过重疾赔付）
+\* 身故仍可获赔保额（前提是没有发生过重疾赔付）
 
-    \* 可选投保人豁免（夫妻互保）
+\* 可选投保人豁免（夫妻互保）
+```
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmawddSl10zzZPVKAoWdH2NZ5aiaIwic182HibhJX7uAsSnsDiaESMgPibx0b2w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
 **4、复星联合康乐e生**
 
-    \* 可保至70/80周岁或终身
+```text
+\* 可保至70/80周岁或终身
 
-    \*80种重疾，最高60万
+\*80种重疾，最高60万
 
-    \* 可选35种轻症及豁免，
+\* 可选35种轻症及豁免，
 
-    \*轻症可赔付3次，最高18万
+\*轻症可赔付3次，最高18万
 
-    \* 可选投保人豁免（夫妻互保）
+\* 可选投保人豁免（夫妻互保）
 
-    \* 可选最长30年交费，压力最小
+\* 可选最长30年交费，压力最小
+```
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmaw9toVTDUxuDLK9JSYk9oyK5C0secIJhewuedQcx4RVwoPm6g2iaoLNibg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
-
-  
-
 
 一般情况下，对于有收入人群，建议同时购买指销型医疗保险和给付型重疾保险。
 

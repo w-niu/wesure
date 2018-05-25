@@ -1,24 +1,22 @@
-# Summary
+# Table of contents
 
 * [Initial page](README.md)
 * [家庭成员的保险配置原则](jia-ting-cheng-yuan-de-bao-xian-pei-zhi-yuan-ze.md)
-* [三分钟读懂&lt;医疗险&gt;](san-fen-zhong-du-61c23c-yi-liao-96693e.md)
-* [三分钟读懂&lt;重疾险&gt;](san-fen-zhong-du-61c23c-zhong-ji-96693e.md)
-* [三分钟读懂&lt;意外险&gt;](san-fen-zhong-du-61c23c-yi-wai-96693e.md)
-* [医保的“三个目录”是什么](yi-bao-de-201c-san-ge-mu-lu-201d-shi-shi-yao.md)
+* [三分钟读懂&lt;医疗险&gt;](san-fen-zhong-du-dong-yi-liao-xian.md)
+* [三分钟读懂&lt;重疾险&gt;](san-fen-zhong-du-dong-zhong-ji-xian.md)
+* [三分钟读懂&lt;意外险&gt;](san-fen-zhong-du-dong-yi-wai-xian.md)
+* [医保的“三个目录”是什么](yi-bao-de-san-ge-mu-lu-shi-shi-mo.md)
 * [医疗保险的常见条款](yi-liao-bao-xian-de-chang-jian-tiao-kuan.md)
-* [重大疾病保险的疾病定义（25种）](zhong-da-ji-bing-bao-xian-de-ji-bing-ding-yi-ff08-25-zhong-ff09.md)
+* [重大疾病保险的疾病定义（25种）](zhong-da-ji-bing-bao-xian-de-ji-bing-ding-yi-25-zhong.md)
 * [是否需要选择返本型重疾险](shi-fou-xu-yao-xuan-ze-fan-ben-xing-zhong-ji-xian.md)
 * [是否需要选择终身重疾险](shi-fou-xu-yao-xuan-ze-zhong-shen-zhong-ji-xian.md)
-* [医疗保险、重疾保险，应该买哪个](yi-liao-bao-xian-3001-zhong-ji-bao-xian-ff0c-ying-gai-mai-na-ge.md)
-* [重疾、癌症、大病，有何不同](/zhong-ji-3001-ai-zheng-3001-da-bing-ff0c-you-he-bu-tong.md)
+* [医疗保险、重疾保险，应该买哪个](yi-liao-bao-xian-zhong-ji-bao-xian-ying-gai-mai-na-ge.md)
+* [重疾、癌症、大病，有何不同](zhong-ji-3001-ai-zheng-3001-da-bing-ff0c-you-he-bu-tong.md.md)
 * [重大疾病保险知识问答](zhong-da-ji-bing-bao-xian-zhi-shi-wen-da.md)
-* [多买是否就会多赔？（医疗险）](duo-mai-shi-fou-jiu-hui-duo-pei-ff1f-ff08-yi-liao-xian-ff09.md)
-* [多买是否就会多赔？（意外/医疗/寿险）](duo-mai-shi-fou-jiu-hui-duo-pei-ff1f-ff08-yi-5916-yi-7597-shou-xian-ff09.md)
-* [如何理解尊享e生的连续投保条款](ru-he-li-jie-zun-xiang-e-sheng-de-lian-xu-tou-bao-tiao-kuan.md)
-* [用数据说明&lt;返还型&gt;和&lt;消费型&gt;如何选择](yong-shu-ju-shuo-660e3c-fan-huan-578b3e-548c3c-xiao-fei-578b3e-ru-he-xuan-ze.md)
-* [关于&lt;退保&gt;那些事](guan-4e8e3c-tui-4fdd3e-na-xie-shi.md)
-* [如何理解尊享e生的免赔额条款](ru-he-li-jie-zun-xiang-e-sheng-de-mian-pei-e-tiao-kuan.md)
-
-
+* [多买是否就会多赔？（医疗险）](duo-mai-shi-fou-jiu-hui-duo-pei-yi-liao-xian.md)
+* [多买是否就会多赔？（意外/医疗/寿险）](duo-mai-shi-fou-jiu-hui-duo-pei-yi-wai-yi-liao-shou-xian.md)
+* [如何理解尊享e生的连续投保条款](ru-he-li-jie-zun-xiangesheng-de-lian-xu-tou-bao-tiao-kuan.md)
+* [用数据说明&lt;返还型&gt;和&lt;消费型&gt;如何选择](yong-shu-ju-shuo-ming-fan-huan-xing-he-xiao-fei-xing-ru-he-xuan-ze.md)
+* [关于&lt;退保&gt;那些事](guan-yu-tui-bao-na-xie-shi.md)
+* [如何理解尊享e生的免赔额条款](ru-he-li-jie-zun-xiangesheng-de-mian-peietiao-kuan.md)
 
