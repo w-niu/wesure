@@ -12,4 +12,5 @@
 * [是否需要选择终身重疾险](shi-fou-xu-yao-xuan-ze-zhong-shen-zhong-ji-xian.md)
 * [医疗保险、重疾保险，应该买哪个](yi-liao-bao-xian-3001-zhong-ji-bao-xian-ff0c-ying-gai-mai-na-ge.md)
 * [重疾、防癌、大病，有何不同](zhong-ji-3001-fang-ai-3001-da-bing-ff0c-you-he-bu-tong.md)
+* [重大疾病保险知识问答](zhong-da-ji-bing-bao-xian-zhi-shi-wen-da.md)
 
