@@ -7,4 +7,5 @@
 * [三分钟读懂&lt;重疾险&gt;](san-fen-zhong-du-61c23c-zhong-ji-96693e.md)
 * [医保的“三个目录”是什么](yi-bao-de-201c-san-ge-mu-lu-201d-shi-shi-yao.md)
 * [医疗保险的常见条款](yi-liao-bao-xian-de-chang-jian-tiao-kuan.md)
+* [重大疾病保险的疾病定义（25种）](zhong-da-ji-bing-bao-xian-de-ji-bing-ding-yi-ff08-25-zhong-ff09.md)
 
