@@ -8,12 +8,10 @@
 
 选择重疾险是为未来的健康风险提供保障，朴素来讲当然是多多益善。高保额，意味着高保费。所以是否列明的疾病种类越多，这款重疾险就越好呢？中国保监会规定要冠名重疾产品的保险必须提供以下6种保障:
 
-  
-
-
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnqUYiboIAJ1N2CISIn9NicCufs3OLh4lRmqqhTdgerEMrZgN1AEDVlQuZyMfRvozNKCSJ24icNRMubuw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-  
+
+
 
 
 只有保障了这6种核心重疾的产品才能被命名为＂\*\*重大疾病保险”。这6种重疾已占人们所患上重疾的80％－85％。
@@ -28,8 +26,7 @@
 
 **3. 重疾险产品类型**
 
-重疾险按给付形态分，可分为单次赔付和多次赔付两种。  
-
+重疾险按给付形态分，可分为单次赔付和多次赔付两种。
 
 **\*\* 单次赔付**
 
