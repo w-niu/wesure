@@ -19,6 +19,4 @@
 * [如何理解尊享e生的连续投保条款](ru-he-li-jie-zun-xiangesheng-de-lian-xu-tou-bao-tiao-kuan.md)
 * [用数据说明&lt;返还型&gt;和&lt;消费型&gt;如何选择](yong-shu-ju-shuo-ming-fan-huan-xing-he-xiao-fei-xing-ru-he-xuan-ze.md)
 * [关于&lt;退保&gt;那些事](guan-yu-tui-bao-na-xie-shi.md)
-* [产品链接](chan-pin-lian-jie.md)
-  * [医疗](chan-pin-lian-jie/yi-liao.md)
 
