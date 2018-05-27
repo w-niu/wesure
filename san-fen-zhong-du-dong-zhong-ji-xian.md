@@ -10,7 +10,7 @@
 
 ![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnqUYiboIAJ1N2CISIn9NicCufs3OLh4lRmqqhTdgerEMrZgN1AEDVlQuZyMfRvozNKCSJ24icNRMubuw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
 
-只有保障了这6种核心重疾的产品才能被命名为＂\*\*重大疾病保险”。这6种重疾已占人们所患上重疾的80％－85％。
+只有保障了这6种核心重疾的产品才能被命名为＂`**重大疾病保险`”。这6种重疾已占人们所患上重疾的80％－85％。
 
 另外，行业重疾定义还规走了另外19种较常见重疾的定义，组成最常见的25种重疾组合，是目前市面绝大多数重疾产品提供的基本覆盖范围。且这25种重疾已经占重疾的95％左右。
 
