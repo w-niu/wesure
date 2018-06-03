@@ -14,7 +14,7 @@
 
 主要对比数据，如下图所示（点击图片查看大图）：
 
-![](https://mmbiz.qpic.cn/mmbiz_png/XureD2EYlnreOcvM3IujgqaPc6pqBGM8C2Uah5rHVfnRtTHOz8JULxEYvk5Cz8FeAMXsPCX4US6AOcJzmwyEbA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/10.jpg)
 
 # **分析要点**
 
