@@ -34,17 +34,15 @@
 
 ### 尊享e生旗舰版，产品特点：
 
-\* 一般医疗300万，癌症600万
+```
+* 一般医疗300万，癌症600万
+* 住院垫付、出院报销
+* 可全家共享1万免赔额
+* 含6000元法律纠纷补偿
+* 适合一般固定收入人群、父母的医疗保障
+```
 
-\* 住院**垫付**、出院报销
-
-\* 可全家**共享**1万免赔额
-
-\* 含6000元**法律**纠纷补偿
-
-\* 适合一般固定收入人群、父母的医疗保障
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmaw07YjqKRHzzAx9KQRMqFw07bI9ZVVZwta467gdlT2hAqkckKb6ncIbw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/产品活码（220px-不含知会保LOGO）/众安尊享e生旗舰版升级.png)
 
 # **什么是重疾保险**
 
@@ -90,7 +88,7 @@
 
 ## **相关推荐**
 
-**1、百年人寿康惠保**
+### **1、百年人寿康惠保**
 
 ```text
 * 保至70岁或终身  
@@ -100,59 +98,61 @@
 * 可选30年交费，把压力降至最小
 ```
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmawxRMyN0icHUyZg4icyDfco0SpRKFpBwoyTaEiaKAolheFZCtAcdvZksibiag/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/产品活码（220px-不含知会保LOGO）/百年康惠保重大疾病保险.png)
 
-**2、和谐分享之享**
+### **2、和谐健康之享**
 
 ```text
 \* 定期重疾，最长保至80周岁
 
-\***50**种重疾、**10**种轻症
+\* 50种重疾、10种轻症
 
-\* 次年**保额翻倍**，最高120万
+\* 次年保额翻倍，最高120万
 
-\*全残保额与重疾保额相同，身故赔已交保费
+\* 全残保额与重疾保额相同，身故赔已交保费
 
-\* 可选被保人**轻症豁免**后续保费
+\* 可选被保人轻症豁免后续保费
 ```
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmawGR9wia6DMOWwqhgSRGDDIjh0XS25BqVBTCqia3tMJd6RNA3IqwVthbag/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/产品活码（220px-不含知会保LOGO）/和谐健康之享定期重大疾病保险.png)
 
-**3、同方全球康健一生多倍保**
+### **3、同方全球康健一生多倍保**
 
-\* 终身重疾
+
 
 ```text
-\***80种**重疾、28种轻症
+* 终身重疾
 
-\* 重疾或轻症**均可赔付3次**
+\* 80种重疾、28种轻症
 
-\* 重疾**可豁免**后续重疾保费，轻症**可豁免**后续轻症保费
+\* 重疾或轻症均可赔付3次
+
+\* 重疾可豁免后续重疾保费，轻症可豁免后续轻症保费
 
 \* 身故仍可获赔保额（前提是没有发生过重疾赔付）
 
 \* 可选投保人豁免（夫妻互保）
 ```
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmawddSl10zzZPVKAoWdH2NZ5aiaIwic182HibhJX7uAsSnsDiaESMgPibx0b2w/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/产品活码（220px-不含知会保LOGO）/同方全球康健一生多倍保终身重大疾病保险.png)
 
-**4、复星联合康乐e生**
+### **4、复星联合康乐e生**
 
 ```text
 \* 可保至70/80周岁或终身
 
-\*80种重疾，最高60万
+\* 80种重疾，最高60万
 
 \* 可选35种轻症及豁免，
 
-\*轻症可赔付3次，最高18万
+\* 轻症可赔付3次，最高18万
 
 \* 可选投保人豁免（夫妻互保）
 
 \* 可选最长30年交费，压力最小
 ```
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnq1NIBibCjRbAoDC2dZYcmaw9toVTDUxuDLK9JSYk9oyK5C0secIJhewuedQcx4RVwoPm6g2iaoLNibg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/产品活码（220px-不含知会保LOGO）/复星联合康乐e生重大疾病保险.png)
 
 > 一般情况下，对于有收入人群，建议同时购买指销型医疗保险和给付型重疾保险。
 >
