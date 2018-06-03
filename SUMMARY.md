@@ -8,7 +8,7 @@
   * [家庭成员的保险配置原则](jia-ting-cheng-yuan-de-bao-xian-pei-zhi-yuan-ze.md)
   * [是否需要选择终身重疾险](shi-fou-xu-yao-xuan-ze-zhong-shen-zhong-ji-xian.md)
   * [是否需要选择返本型重疾险](shi-fou-xu-yao-xuan-ze-fan-ben-xing-zhong-ji-xian.md)
-  * [用数据说明&lt;返还型&gt;和&lt;消费型&gt;如何选择](yong-shu-ju-shuo-ming-fan-huan-xing-he-xiao-fei-xing-ru-he-xuan-ze.md)
+  * [如何选择&lt;返还型&gt;和&lt;消费型&gt;？](ru-he-xuan-ze-fan-huan-xing-he-xiao-fei-xing.md)
 * [保险产品选购目录](bao-xian-chan-pin-xuan-gou-mu-lu.md)
   * [医疗保险](yi-liao-bao-xian.md)
   * [重大疾病保险](zhong-da-ji-bing-bao-xian.md)
