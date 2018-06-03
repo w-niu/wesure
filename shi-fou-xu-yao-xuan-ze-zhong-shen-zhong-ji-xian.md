@@ -21,7 +21,7 @@
 
 以当前市面上一款性价比很高的重疾险为例（这里强调性价比，是因为会影响选择方法，文末有提及），按照30岁男性、保额50万、缴费30年进行计算，如果保障终身，每年保费4550元，如果保障至70周岁，每年保费2650元。
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnqFbIiaUpIQiasTSE7DeszDvUbVy7McLVU6bpgMoOVkvrtdRxm28lPrP4FV2NyBR017Of2iaGfBMuiabw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/Data-Analysis/是否需要选择终身重疾险-1.jpg)
 
 每年交4550元保费保障至终身，每年交2650元保费保障至70岁， 哪个划算呢？
 
@@ -29,7 +29,7 @@
 
 我们假定3种投资收益率（3.5%、6%和8%）进行计算，如下图：
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/XureD2EYlnqFbIiaUpIQiasTSE7DeszDvUibhIoouPHytLYlKYY44mFjuALzEb9k6bODvaDnsATjR2P2gjicficjm9A/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1)
+![](/assets/Data-Analysis/是否需要选择终身重疾险-百年康惠保-买定投余.jpg)
 
 **从上图可以得出的信息是：**
 
