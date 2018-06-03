@@ -26,6 +26,7 @@
     * [重大疾病保险的疾病定义（25种）](zhong-da-ji-bing-bao-xian-de-ji-bing-ding-yi-25-zhong.md)
   * [保险公司](bao-xian-gong-si.md)
     * [test](bao-xian-gong-si/test.md)
+    * [原始凭证分割单](bao-xian-gong-si/yuan-shi-ping-zheng-fen-ge-dan.md)
   * [保险监管](bao-xian-jian-guan.md)
     * [test](bao-xian-jian-guan/test.md)
 
