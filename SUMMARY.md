@@ -13,7 +13,7 @@
   * [医疗保险](yi-liao-bao-xian.md)
   * [重大疾病保险](zhong-da-ji-bing-bao-xian.md)
   * [人寿保险](ren-shou-bao-xian.md)
-  * 意外保险
+  * [意外保险](yi-wai-bao-xian.md)
   * [如何理解尊享e生的免赔额条款](ru-he-li-jie-zun-xiangesheng-de-mian-peietiao-kuan.md)
   * [如何理解尊享e生的连续投保条款](ru-he-li-jie-zun-xiangesheng-de-lian-xu-tou-bao-tiao-kuan.md)
 * [保险基本知识](bao-xian-ji-ben-zhi-shi.md)
