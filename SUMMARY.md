@@ -32,5 +32,5 @@
   * [保险监管](bao-xian-jian-guan.md)
     * [test](bao-xian-jian-guan/test.md)
     * [战胜华尔街](bao-xian-jian-guan/zhan-sheng-hua-er-jie.md)
-      * 彼得
+      * [彼得](bao-xian-jian-guan/zhan-sheng-hua-er-jie/bi-de.md)
 
