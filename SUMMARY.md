@@ -36,6 +36,4 @@
 * [AA](aa.md)
   * [BB](aa/bb.md)
     * [CC](aa/bb/cc.md)
-  * [EE](aa/ee.md)
-    * [FF](aa/ee/ff.md)
 
