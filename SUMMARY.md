@@ -24,8 +24,12 @@
     * [医保的“三个目录”是什么](yi-bao-de-san-ge-mu-lu-shi-shi-mo.md)
     * [医疗保险的常见条款](yi-liao-bao-xian-de-chang-jian-tiao-kuan.md)
     * [重大疾病保险的疾病定义（25种）](zhong-da-ji-bing-bao-xian-de-ji-bing-ding-yi-25-zhong.md)
+    * [重大疾病保险知识问答](zhong-da-ji-bing-bao-xian-zhi-shi-wen-da.md)
+    * [重大疾病、癌症、大病有何不同](zhong-ji-3001-ai-zheng-3001-da-bing-ff0c-you-he-bu-tong.md)
   * [保险公司](bao-xian-gong-si.md)
     * [原始凭证分割单](bao-xian-gong-si/yuan-shi-ping-zheng-fen-ge-dan.md)
   * [保险监管](bao-xian-jian-guan.md)
     * [test](bao-xian-jian-guan/test.md)
+
+
 
