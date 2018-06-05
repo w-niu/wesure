@@ -19,7 +19,7 @@
 * [保险基本知识](bao-xian-ji-ben-zhi-shi.md)
   * [保险产品](bao-xian-chan-pin.md)
     * [三分钟读懂&lt;意外险&gt;](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/san-fen-zhong-du-dong-yi-wai-xian.md)
-    * [三分钟读懂&lt;医疗险&gt;](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/bao-xian-chan-pin/san-fen-zhong-du-dong-yi-liao-xian.md)
+    * [三分钟读懂&lt;医疗险&gt;](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/san-fen-zhong-du-dong-yi-liao-xian.md)
     * [三分钟读懂&lt;重疾险&gt;](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/san-fen-zhong-du-dong-zhong-ji-xian.md)
     * [医保的“三个目录”是什么](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/yi-bao-de-san-ge-mu-lu-shi-shi-mo.md)
     * [医疗保险的常见条款](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/yi-liao-bao-xian-de-chang-jian-tiao-kuan.md)
