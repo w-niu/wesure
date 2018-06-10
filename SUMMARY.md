@@ -36,7 +36,6 @@
     * 消费型保险是什么
   * [保险公司](bao-xian-ji-ben-zhi-shi/bao-xian-gong-si.md)
     * [原始凭证分割单](bao-xian-ji-ben-zhi-shi/bao-xian-gong-si/yuan-shi-ping-zheng-fen-ge-dan.md)
-    * [保险公司会倒闭吗？](bao-xian-ji-ben-zhi-shi/bao-xian-gong-si/bao-xian-gong-si-hui-dao-bi-ma-ff1f.md)
   * [保险监管](bao-xian-ji-ben-zhi-shi/bao-xian-jian-guan.md)
-    * [test](bao-xian-ji-ben-zhi-shi/bao-xian-jian-guan/test.md)
+    * [保险公司会倒闭吗？](bao-xian-ji-ben-zhi-shi/bao-xian-jian-guan/bao-xian-gong-si-hui-dao-bi-ma-ff1f.md)
 
