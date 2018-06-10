@@ -33,7 +33,7 @@
     * [重大疾病保险知识问答](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/zhong-da-ji-bing-bao-xian-zhi-shi-wen-da.md)
     * [重大疾病、癌症、大病有何不同](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/zhong-ji-3001-ai-zheng-3001-da-bing-ff0c-you-he-bu-tong.md)
     * [关于退保那些事](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/guan-yu-tui-bao-na-xie-shi.md)
-    * [消费型保险是什么](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/xiao-fei-xing-bao-xian-shi-shi-yao.md)
+    * [消费型保险是什么](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/xiao-fei-xing-bao-xian-shi-shen-me.md)
   * [保险公司](bao-xian-ji-ben-zhi-shi/bao-xian-gong-si.md)
     * [原始凭证分割单](bao-xian-ji-ben-zhi-shi/bao-xian-gong-si/yuan-shi-ping-zheng-fen-ge-dan.md)
   * [保险监管](bao-xian-ji-ben-zhi-shi/bao-xian-jian-guan.md)
