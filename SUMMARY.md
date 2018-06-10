@@ -2,7 +2,7 @@
 
 * [关于这本书](README.md)
 
-## Section 2
+
 
 ### Part 2
 * [保险配置原则和方法](bao-xian-pei-zhi-yuan-ze-he-fang-fa.md)
