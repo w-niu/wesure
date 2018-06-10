@@ -13,6 +13,7 @@
   * [家庭成员的保险配置原则](bao-xian-pei-zhi-yuan-ze-he-fang-fa/jia-ting-cheng-yuan-de-bao-xian-pei-zhi-yuan-ze.md)
   * [是否需要选择终身重疾险](bao-xian-pei-zhi-yuan-ze-he-fang-fa/shi-fou-xu-yao-xuan-ze-zhong-shen-zhong-ji-xian.md)
   * [是否需要选择返本型重疾险](bao-xian-pei-zhi-yuan-ze-he-fang-fa/shi-fou-xu-yao-xuan-ze-fan-ben-xing-zhong-ji-xian.md)
+  * [是否需要附加形式的保险](bao-xian-pei-zhi-yuan-ze-he-fang-fa/shi-fou-xu-yao-fu-jia-xing-shi-de-bao-xian.md)
   * [如何选择&lt;返还型&gt;和&lt;消费型&gt;？](bao-xian-pei-zhi-yuan-ze-he-fang-fa/ru-he-xuan-ze-fan-huan-xing-he-xiao-fei-xing.md)
 * [保险产品选购目录](bao-xian-chan-pin-xuan-gou-mu-lu.md)
   * [医疗保险](bao-xian-chan-pin-xuan-gou-mu-lu/yi-liao-bao-xian.md)
@@ -32,6 +33,7 @@
     * [重大疾病保险知识问答](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/zhong-da-ji-bing-bao-xian-zhi-shi-wen-da.md)
     * [重大疾病、癌症、大病有何不同](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/zhong-ji-3001-ai-zheng-3001-da-bing-ff0c-you-he-bu-tong.md)
     * [关于退保那些事](bao-xian-ji-ben-zhi-shi/bao-xian-chan-pin/guan-yu-tui-bao-na-xie-shi.md)
+    * 消费型保险是什么
   * [保险公司](bao-xian-ji-ben-zhi-shi/bao-xian-gong-si.md)
     * [原始凭证分割单](bao-xian-ji-ben-zhi-shi/bao-xian-gong-si/yuan-shi-ping-zheng-fen-ge-dan.md)
     * [保险公司会倒闭吗？](bao-xian-ji-ben-zhi-shi/bao-xian-gong-si/bao-xian-gong-si-hui-dao-bi-ma-ff1f.md)
