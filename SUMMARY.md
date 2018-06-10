@@ -1,6 +1,6 @@
 # Summary
 
-* [Initial page](README.md)
+* [关于这本书](README.md)
 
 ## Part 1
 * [保险配置原则和方法](bao-xian-pei-zhi-yuan-ze-he-fang-fa.md)
