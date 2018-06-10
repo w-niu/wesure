@@ -4,8 +4,6 @@
 
 ### Part 2
 
-### Part 3
-
 * [保险配置原则和方法](bao-xian-pei-zhi-yuan-ze-he-fang-fa.md)
   * [医疗保险、重疾保险，应该买哪个](bao-xian-pei-zhi-yuan-ze-he-fang-fa/yi-liao-bao-xian-zhong-ji-bao-xian-ying-gai-mai-na-ge.md)
   * [多买是否就会多赔？（医疗险）](bao-xian-pei-zhi-yuan-ze-he-fang-fa/duo-mai-shi-fou-jiu-hui-duo-pei-yi-liao-xian.md)
