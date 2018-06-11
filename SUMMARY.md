@@ -1,12 +1,8 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
 
 ## Part 1
-
-* [关于这本书](part-1/guan-yu-zhe-ben-shu.md)
-
-## Part 2
 
 * [保险配置原则和方法](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/README.md)
   * [医疗险和重疾险，如何抉择？](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/yi-liao-bao-xian-zhong-ji-bao-xian-ying-gai-mai-na-ge.md)
