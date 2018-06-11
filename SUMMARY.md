@@ -13,6 +13,7 @@
   * [是否需要选择返本型重疾险](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/shi-fou-xu-yao-xuan-ze-fan-ben-xing-zhong-ji-xian.md)
   * [是否需要附加形式的保险](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/shi-fou-xu-yao-fu-jia-xing-shi-de-bao-xian.md)
   * [如何选择&lt;返还型&gt;和&lt;消费型&gt;？](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/ru-he-xuan-ze-fan-huan-xing-he-xiao-fei-xing.md)
+  * [重复投保是否可以重复获赔？](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/zhong-fu-tou-bao-shi-fou-ke-yi-zhong-fu-huo-pei-ff1f.md)
 * [保险产品选购目录](part-2/bao-xian-chan-pin-xuan-gou-mu-lu/README.md)
   * [医疗保险](part-2/bao-xian-chan-pin-xuan-gou-mu-lu/yi-liao-bao-xian.md)
   * [重大疾病保险](part-2/bao-xian-chan-pin-xuan-gou-mu-lu/zhong-da-ji-bing-bao-xian.md)
