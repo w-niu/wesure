@@ -6,8 +6,6 @@
 
 * [保险配置原则和方法](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/README.md)
   * [医疗险和重疾险，如何抉择？](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/yi-liao-bao-xian-zhong-ji-bao-xian-ying-gai-mai-na-ge.md)
-  * [多买是否就会多赔？（医疗险）](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/duo-mai-shi-fou-jiu-hui-duo-pei-yi-liao-xian.md)
-  * [多买是否就会多赔？（意外/重疾/寿险）](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/duo-mai-shi-fou-jiu-hui-duo-pei-yi-wai-zhong-ji-shou-xian.md)
   * [家庭成员的保险配置原则](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/jia-ting-cheng-yuan-de-bao-xian-pei-zhi-yuan-ze.md)
   * [是否需要选择终身重疾险](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/shi-fou-xu-yao-xuan-ze-zhong-shen-zhong-ji-xian.md)
   * [是否需要选择返本型重疾险](part-2/bao-xian-pei-zhi-yuan-ze-he-fang-fa/shi-fou-xu-yao-xuan-ze-fan-ben-xing-zhong-ji-xian.md)
