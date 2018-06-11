@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [关于这本书](README.md)
 
 ## Part 2
 
